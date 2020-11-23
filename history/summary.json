@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Goldstar Production",
+    "url": "https://www.goldstar.com",
+    "slug": "goldstar-production",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 305
+  },
+  {
+    "name": "Stellar Production",
+    "url": "https://www.stellartickets.com",
+    "slug": "stellar-production",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 256
+  },
+  {
+    "name": "Secret Site",
+    "url": "$SECRET_SITE",
+    "slug": "secret-site",
+    "status": "down",
+    "uptime": "0.00%",
+    "time": 0
+  }
+]
