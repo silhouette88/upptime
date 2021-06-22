@@ -5,7 +5,7 @@
     "slug": "goldstar-production",
     "status": "up",
     "uptime": "100.00%",
-    "time": 515
+    "time": 516
   },
   {
     "name": "Stellar Production",
@@ -21,6 +21,6 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 353
+    "time": 352
   }
 ]
