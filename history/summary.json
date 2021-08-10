@@ -3,9 +3,9 @@
     "name": "Goldstar Production",
     "url": "https://www.goldstar.com",
     "slug": "goldstar-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "time": 515
+    "time": 517
   },
   {
     "name": "Stellar Production",
